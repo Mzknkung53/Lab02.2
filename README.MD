@@ -145,3 +145,6 @@ Emoji:
 GGWP
 Name: Phiriya Promkaewma
 No.652115030
+
+Name: Narongchai Rongthong
+No.652115013
